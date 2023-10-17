@@ -1,5 +1,5 @@
 # Sana Commerce Software Development Courses `24
-!(https://upload.wikimedia.org/wikipedia/commons/0/08/Sana_Commerce_Logo.png)
+![Sana.](https://upload.wikimedia.org/wikipedia/commons/0/08/Sana_Commerce_Logo.png)
 ## Практична робота №1
 ### Основні завдання
 У **практичній роботі №1** було:
@@ -11,16 +11,16 @@
 ### Використані команди Git:
 У **практичній роботі №1** було використано такі команди Git:
 
-[x] git init
-[x] git status
-[x] git add
-[x] git commit
-[x] git remote add
-[x] git push
-[x] git pull
-[ ] git branch
+- [x] git init
+- [x] git status
+- [x] git add
+- [x] git commit
+- [x] git remote add
+- [x] git push
+- [x] git pull
+- [ ] git branch
 ## Практична робота №2
-###Основні завдання
+### Основні завдання
 У **практичній роботі №2** потрібно:
 
 * створити файл README.md
